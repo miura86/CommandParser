@@ -1,0 +1,5 @@
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Release\CommandParser.exe.config
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Release\CommandParser.exe
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Release\CommandParser.pdb
+D:\Projects\Kottans\CommandParser\CommandParser\obj\Release\CommandParser.exe
+D:\Projects\Kottans\CommandParser\CommandParser\obj\Release\CommandParser.pdb

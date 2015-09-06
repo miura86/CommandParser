@@ -1,0 +1,6 @@
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Debug\CommandParser.exe.config
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Debug\CommandParser.exe
+D:\Projects\Kottans\CommandParser\CommandParser\bin\Debug\CommandParser.pdb
+D:\Projects\Kottans\CommandParser\CommandParser\obj\Debug\CommandParser.csprojResolveAssemblyReference.cache
+D:\Projects\Kottans\CommandParser\CommandParser\obj\Debug\CommandParser.exe
+D:\Projects\Kottans\CommandParser\CommandParser\obj\Debug\CommandParser.pdb
